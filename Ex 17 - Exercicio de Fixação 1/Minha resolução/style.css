@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  width: 100vh;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+  justify-content: space-between;
+  align-items: center;
+}
+#Img01 {
+  width: 5%;
+}
+#Img02 {
+  width: 20%;
+}
+.headerItem {
+  display: flex;
+  flex-direction: column;
+}
+#menuSuperior {
+  display: flex;
+  list-style: none;
+  color: white;
+  text-decoration: none;
+}
+#menuSuperior li {
+  padding: 10px;
+  border: 1px solid white;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+#menuSuperior a {
+  text-decoration: none;
+  color: white;
+}
+
+#menuSuperior {
+  color: red;
+}

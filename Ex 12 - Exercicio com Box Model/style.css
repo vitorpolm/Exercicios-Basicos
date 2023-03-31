@@ -1,0 +1,20 @@
+.estilizando {
+  background-color: #fffafa;
+  text-align: left;
+  margin: 0px 100px 0px 100px;
+  padding: 50px;
+  border-bottom: 2px solid;
+}
+h1 {
+  font-family: "Montserrat";
+}
+p {
+  font-family: "Open Sans";
+}
+.estilizando h4 {
+  color: #008080;
+  font-family: "Roboto";
+}
+body {
+  text-align: center;
+}
