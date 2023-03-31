@@ -1,0 +1,15 @@
+/*#title {
+  color: mix(yellow, blue, 30%);
+}*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  height: 100vh;
+  background-color: black;
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */
